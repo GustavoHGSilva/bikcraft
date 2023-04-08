@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  height: 2000px;
+}
+h1,
+p,
+ul {
+  margin: 0px;
+}
+ul {
+  padding: 0px;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
